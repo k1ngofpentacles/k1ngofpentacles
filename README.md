@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @k1ngofpentacles
 - 👀 I’m interested in AI, Game Design, and Cyber-Security
-- 🌱 I’m currently learning Fullsack Development with a focus in the latest JS and associated APIs.
+- 🌱 I’m currently learning Fullstack Development with a focus in the latest JS and associated APIs.
 - 💞️ I’m looking to collaborate on Minecraft mods, small indie projects, social media platforms.
 - 📫 How to reach me: contact me by email at jonas.orion22@gmail.com!
 
